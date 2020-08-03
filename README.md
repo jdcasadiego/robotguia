@@ -1,5 +1,6 @@
 # robotguia - Instrucciones
 Código implementado para al simulación del robot guía usando visión por computador
+
 Autor: Jose David Casadiego Lopez
 e-mail: jd.casadiego10@uniandes.edu.co
 
